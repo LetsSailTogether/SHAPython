@@ -1,0 +1,9 @@
+{
+    "organizations": [
+        {
+            "name": "LetsSailTogether",
+            "description": "Main organization",
+            "enabled": true
+        }
+    ]
+}
